@@ -14,7 +14,7 @@ void CursorView();
 void setBackground();
 void moveCur();
 void showdeadblock();
-////버퍼///////////////////////////////////////
+////버퍼///////////////////////////////////////ddfsfsfsdf
 //extern int g_nScreenIndex;
 //extern HANDLE g_hScreen[2];
 //extern int g_numofFPS;
